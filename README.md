@@ -1,5 +1,5 @@
 # QUANTUM COMPUTING AND CYBERSECURITY
-EC601 A2 Team 3
+EC601 A2 Team 3: Jiwon Park, Inigo Perez Gamiz
 
 ## Motivation
 The emergence of Quantum Computation has completely changed the computational landscape, specially in terms of cybersecurity. Many encryption algorithms that
