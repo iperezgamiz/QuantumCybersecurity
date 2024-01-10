@@ -1,0 +1,4 @@
+cryptography==3.4.8
+numpy==1.26.2
+qiskit==0.45.0
+qiskit_terra==0.45.0
